@@ -1,4 +1,3 @@
-# ATS_RAG_Resume_chatbot
 # 🚀 ATS + RAG Resume Chatbot
 
 An **AI-powered ATS (Applicant Tracking System) + RAG Chatbot** that evaluates resumes against job descriptions and provides intelligent, context-aware feedback.
