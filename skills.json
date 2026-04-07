@@ -1,0 +1,53 @@
+{
+  "programming": [
+    "python","java","c","c++","javascript","typescript","go","rust","kotlin","swift","r","matlab"
+  ],
+  "web_development": [
+    "html","css","react","angular","vue","nodejs","express","django","flask","spring","spring boot","next.js"
+  ],
+  "data_science": [
+    "machine learning","deep learning","nlp","computer vision","data science","data analysis","feature engineering","model deployment"
+  ],
+  "libraries": [
+    "pandas","numpy","scikit-learn","tensorflow","pytorch","keras","xgboost","lightgbm","opencv","nltk","spacy"
+  ],
+  "databases": [
+    "sql","mysql","postgresql","mongodb","oracle","redis","cassandra","dynamodb"
+  ],
+  "cloud_devops": [
+    "aws","azure","gcp","docker","kubernetes","terraform","jenkins","github actions","ci/cd"
+  ],
+  "big_data": [
+    "hadoop","spark","kafka","hive","pig","flink"
+  ],
+  "tools": [
+    "git","github","gitlab","bitbucket","linux","unix","bash","shell scripting","jira"
+  ],
+  "data_tools": [
+    "excel","power bi","tableau","looker","google analytics"
+  ],
+  "marketing": [
+    "seo","sem","google ads","facebook ads","content marketing","email marketing","digital marketing","branding","market research"
+  ],
+  "finance": [
+    "accounting","financial analysis","budgeting","forecasting","auditing","taxation","risk management","investment analysis"
+  ],
+  "management": [
+    "project management","agile","scrum","kanban","product management","stakeholder management"
+  ],
+  "hr": [
+    "recruitment","talent acquisition","employee engagement","performance management","training","onboarding"
+  ],
+  "supply_chain": [
+    "logistics","inventory management","procurement","supply chain management","warehouse management"
+  ],
+  "cybersecurity": [
+    "network security","penetration testing","ethical hacking","cryptography","firewalls"
+  ],
+  "design": [
+    "ui design","ux design","figma","adobe xd","photoshop","illustrator"
+  ],
+  "soft_skills": [
+    "communication","leadership","teamwork","problem solving","critical thinking","time management","decision making","adaptability"
+  ]
+}
