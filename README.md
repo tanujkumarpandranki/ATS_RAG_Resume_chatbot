@@ -4,7 +4,7 @@ An **AI-powered ATS (Applicant Tracking System) + RAG Chatbot** that evaluates r
 
 ---
 
-## 🧠 Project Overview
+## 🧠 Project Overview 
 
 This project combines **NLP, Machine Learning, and Retrieval-Augmented Generation (RAG)** to simulate a real-world ATS system.
 
